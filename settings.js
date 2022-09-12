@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.ownername = "Praveen" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -46,14 +46,14 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['94717189173']
 global.ownertag = '94711421243' //ur tag number
 global.botnumber = '94717189173' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA Praveen' //ur bot name
+global.botname = 'CYBER-X Praveen Nimsara' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
+global.packname = "Praveen Nimsara" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
